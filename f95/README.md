@@ -10,7 +10,7 @@ Well, this simply adds it back.
 1. Install [Violentmonkey][5] (Others like [Tampermonkey][6] work too but are ***not recommended***)
 2. Install the [Script][7]
 
-<img src="https://github.com/Official-Husko/violentmonkey-scripts/blob/main/previews/f95-halloween.png" width="200" height="100">
+<img src="https://github.com/Official-Husko/violentmonkey-scripts/blob/main/previews/f95-halloween.png">
 
 <br />
 
@@ -22,7 +22,7 @@ Well, this script makes f95 use more of the screen.
 1. Install [Violentmonkey][5] (Others like [Tampermonkey][6] work too but are ***not recommended***)
 2. Install the [Script][8]
 
-<img src="https://github.com/Official-Husko/violentmonkey-scripts/blob/main/previews/f95-extended-view.png" width="200" height="100">
+<img src="https://github.com/Official-Husko/violentmonkey-scripts/blob/main/previews/f95-extended-view.png">
 
 
 [1]: https://github.com/Official-Husko/violentmonkey-scripts
