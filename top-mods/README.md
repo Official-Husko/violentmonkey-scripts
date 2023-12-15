@@ -13,4 +13,4 @@ This simply bypasses the wait timer.
 [2]: https://top-mods.com/
 [5]: https://violentmonkey.github.io/
 [6]: https://tampermonkey.net/
-[7]: https://github.com/Official-Husko/violentmonkey-scripts/blob/main/top-mods/top-mods-no-wait-timers.user.js?raw=True
+[7]: https://github.com/Official-Husko/violentmonkey-scripts/raw/main/top-mods/top-mods-no-wait-timers.user.js

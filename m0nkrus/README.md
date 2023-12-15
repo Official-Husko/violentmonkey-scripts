@@ -15,4 +15,4 @@ We all love M0nkrus and are thankful for what he does but Jesus that website des
 [2]: https://monkrus.ws/
 [5]: https://violentmonkey.github.io/
 [6]: https://tampermonkey.net/
-[7]: https://github.com/Official-Husko/violentmonkey-scripts/blob/main/m0nkrus/m0nkrus-eye-safer.user.js?raw=True
+[7]: https://github.com/Official-Husko/violentmonkey-scripts/raw/main/m0nkrus/m0nkrus-eye-safer.user.js

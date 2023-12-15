@@ -15,4 +15,4 @@ Removes the watermark from Kcollect cards.
 [2]: https://kcollect.net/
 [5]: https://violentmonkey.github.io/
 [6]: https://tampermonkey.net/
-[7]: https://github.com/Official-Husko/violentmonkey-scripts/blob/main/kcollect/kcollect-remove-watermark.user.js?raw=True
+[7]: https://github.com/Official-Husko/violentmonkey-scripts/raw/main/kcollect/kcollect-remove-watermark.user.js

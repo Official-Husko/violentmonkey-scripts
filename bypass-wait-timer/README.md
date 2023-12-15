@@ -12,4 +12,4 @@ This script bypasses the wait timer for redirects from [LewdZone][2] and other s
 [4]: https://iseekgames.com/
 [5]: https://violentmonkey.github.io/
 [6]: https://tampermonkey.net/
-[7]: https://github.com/Official-Husko/violentmonkey-scripts/blob/main/bypass-wait-timer/bypass-wait-timer.user.js?raw=True
+[7]: https://github.com/Official-Husko/violentmonkey-scripts/raw/main/bypass-wait-timer/bypass-wait-timer.user.js

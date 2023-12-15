@@ -15,4 +15,4 @@ This extends the content you can see by using more of the screen.
 [2]: https://nexusmods.com/
 [5]: https://violentmonkey.github.io/
 [6]: https://tampermonkey.net/
-[7]: https://github.com/Official-Husko/violentmonkey-scripts/blob/main/nexusmods/nexusmods-extended-view.user.js?raw=True
+[7]: https://github.com/Official-Husko/violentmonkey-scripts/raw/main/nexusmods/nexusmods-extended-view.user.js

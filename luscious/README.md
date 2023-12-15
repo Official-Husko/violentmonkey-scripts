@@ -14,4 +14,4 @@ This simply enables it again.
 [2]: https://luscious.net/
 [5]: https://violentmonkey.github.io/
 [6]: https://tampermonkey.net/
-[7]: https://github.com/Official-Husko/violentmonkey-scripts/blob/main/luscious/luscious-enable-overflow.user.js?raw=True
+[7]: https://github.com/Official-Husko/violentmonkey-scripts/raw/main/luscious/luscious-enable-overflow.user.js

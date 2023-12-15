@@ -29,5 +29,5 @@ Well, this script makes f95 use more of the screen.
 [2]: https://f95zone.to/
 [5]: https://violentmonkey.github.io/
 [6]: https://tampermonkey.net/
-[7]: https://github.com/Official-Husko/violentmonkey-scripts/blob/main/f95/f95-always-halloween.user.js?raw=True
-[8]: https://github.com/Official-Husko/violentmonkey-scripts/blob/main/f95/f95-extended-view.user.js?raw=True
+[7]: https://github.com/Official-Husko/violentmonkey-scripts/raw/main/f95/f95-always-halloween.user.js
+[8]: https://github.com/Official-Husko/violentmonkey-scripts/raw/main/f95/f95-extended-view.user.js

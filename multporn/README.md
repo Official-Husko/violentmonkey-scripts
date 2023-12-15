@@ -13,4 +13,4 @@ Removes the blur from comics.
 [2]: https://multporn.net/
 [5]: https://violentmonkey.github.io/
 [6]: https://tampermonkey.net/
-[7]: https://github.com/Official-Husko/violentmonkey-scripts/blob/main/multporn/multporn-blur-killer.user.js?raw=True
+[7]: https://github.com/Official-Husko/violentmonkey-scripts/raw/main/multporn/multporn-blur-killer.user.js
