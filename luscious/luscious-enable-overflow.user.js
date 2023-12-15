@@ -2,7 +2,7 @@
 // @name         Enable Overflow Scroll on Luscious
 // @namespace    https://github.com/Official-Husko/violentmonkey-scripts
 // @version      1.0
-// @description  Enables scrolling on websites with hidden overflow
+// @description  Enables scrolling when using an adblock.
 // @match        https://members.luscious.net/*
 // @match        https://luscious.net/*
 // @grant        none
