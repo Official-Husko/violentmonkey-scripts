@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name        F95 Zone extended view
 // @namespace   https://github.com/Official-Husko/violentmonkey-scripts
-// @match       https://f95zone.to/threads/*
+// @match       https://f95zone.to/*
+// @exclude     https://f95zone.to/sam/latest_alpha/
 // @grant       none
 // @version     1.0
 // @author      Official Husko
