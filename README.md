@@ -13,6 +13,7 @@ This is simply a collection of Violentmonkey scripts I made for some websites.
 - [F95](https://github.com/Official-Husko/violentmonkey-scripts/tree/main/f95)
 - [M0nkrus](https://github.com/Official-Husko/violentmonkey-scripts/tree/main/m0nkrus)
 - [Luscious](https://github.com/Official-Husko/violentmonkey-scripts/tree/main/luscious)
+- [Kemono](https://github.com/Official-Husko/violentmonkey-scripts/tree/main/kemono)
 
 <br />
 <br />
