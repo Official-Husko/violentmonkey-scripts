@@ -4,6 +4,7 @@
 // @match       https://kemono.su/*
 // @grant       none
 // @version     1.0.0
+// @license     GNU GPLv3
 // @author      Official Husko
 // @icon        https://www.pulexart.com/uploads/7/0/1/2/70121829/3-greyfox.png
 // @description Replace the patreon links with kemono links for easy navigation. Strictly on Kemono.su
